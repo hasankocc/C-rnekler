@@ -1,0 +1,8 @@
+Hero started journey with 1000 HP!
+Hero defeated Zombie with 790 HP remaining
+Hero defeated Bug with 780 HP remaining
+Hero defeated Lion with 630 HP remaining
+Hero defeated Zombie with 420 HP remaining
+Hero defeated Lion with 270 HP remaining
+Hero defeated Zombie with 60 HP remaining
+Hero is dead!! Last seen at position 4000

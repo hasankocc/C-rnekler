@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IPMdenemeModelStoreContainer" CdmEntityContainer="IPMdenemeEntities">
+    <EntitySetMapping Name="PRM_MASTER">
+      <EntityTypeMapping TypeName="IPMdenemeModel.PRM_MASTER">
+        <MappingFragment StoreEntitySet="PRM_MASTER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DELETED" ColumnName="DELETED" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="DSCR" ColumnName="DSCR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

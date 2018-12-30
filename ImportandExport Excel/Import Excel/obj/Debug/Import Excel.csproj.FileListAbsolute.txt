@@ -1,0 +1,15 @@
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\Import Excel.exe.config
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\Import Excel.exe
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\Import Excel.pdb
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\EntityFramework.dll
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\EntityFramework.xml
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.csprojResolveAssemblyReference.cache
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.csproj.ResolveComReference.cache
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import_Excel.Form1.resources
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import_Excel.Properties.Resources.resources
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.csproj.GenerateResource.Cache
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.csproj.CoreCompileInputs.cache
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.exe
+C:\Users\TT-HASAN\Desktop\Import Excel\Import Excel\obj\Debug\Import Excel.pdb

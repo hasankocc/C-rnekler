@@ -1,0 +1,10 @@
+Hero started journey with 1000 HP!
+Hero defeated Bug with 998 HP remaining
+Hero defeated Pork with 934 HP remaining
+Hero defeated Lion with 709 HP remaining
+Hero defeated Zombie with 619 HP remaining
+Hero defeated Bug with 617 HP remaining
+Hero defeated Pork with 553 HP remaining
+Hero defeated Bug with 551 HP remaining
+Hero defeated Mutant with 51 HP remaining
+Hero is survived!

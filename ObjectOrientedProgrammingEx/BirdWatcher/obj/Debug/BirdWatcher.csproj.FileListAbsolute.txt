@@ -1,0 +1,12 @@
+C:\Users\HASAN.KOC\Desktop\cybersoft\ObjectOrientedProgrammingEx\BirdWatcher\bin\Debug\BirdWatcher.exe.config
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\bin\Debug\BirdWatcher.exe.config
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.Properties.Resources.resources
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\bin\Debug\BirdWatcher.exe
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\bin\Debug\BirdWatcher.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.exe
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\HASAN.KOC\Desktop\OOP\ObjectOrientedProgrammingEx\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources

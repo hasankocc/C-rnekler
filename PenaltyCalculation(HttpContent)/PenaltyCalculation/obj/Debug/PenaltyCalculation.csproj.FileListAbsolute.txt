@@ -1,0 +1,13 @@
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\bin\PenaltyCalculation.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\bin\PenaltyCalculation.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\bin\EntityFramework.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\bin\EntityFramework.xml
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\obj\Debug\PenaltyCalculation.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\obj\Debug\PenaltyCalculation.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation\PenaltyCalculation\obj\Debug\PenaltyCalculation.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\bin\PenaltyCalculation.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\bin\PenaltyCalculation.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\bin\EntityFramework.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\bin\EntityFramework.xml
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\obj\Debug\PenaltyCalculation.dll
+C:\Users\HASAN.KOC\Desktop\OOP\PenaltyCalculation(HttpContent)\PenaltyCalculation\obj\Debug\PenaltyCalculation.pdb

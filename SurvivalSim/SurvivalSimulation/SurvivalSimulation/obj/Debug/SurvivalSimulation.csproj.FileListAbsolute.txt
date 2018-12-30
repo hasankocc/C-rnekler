@@ -1,0 +1,27 @@
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe.config
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.pdb
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Form1.resources
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Properties.Resources.resources
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Desktop\cybersoft\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.pdb
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe.config
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.pdb
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.pdb
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Form1.resources
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Properties.Resources.resources
+C:\Users\HASAN.KOC\Desktop\ssYedek\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe.config
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.pdb
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.exe
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Form1.resources
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.Properties.Resources.resources
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\obj\Debug\SurvivalSimulation.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\SurvivalSim\SurvivalSimulation\SurvivalSimulation\bin\Debug\SurvivalSimulation.pdb

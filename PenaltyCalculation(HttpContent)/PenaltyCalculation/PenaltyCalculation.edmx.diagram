@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="de9388e48bb543078319190ec913dcd8" Name="Diagram1">
+        <EntityTypeShape EntityType="PenaltyCalculationModel.Country" Width="1.5" PointX="1.6376058392401811" PointY="6.9904866400130494" />
+        <EntityTypeShape EntityType="PenaltyCalculationModel.CountryHoliday" Width="1.5" PointX="11.490713791684581" PointY="16.929558612839113" />
+        <AssociationConnector Association="PenaltyCalculationModel.FK_CountryHoliday_Country" />
+        <EntityTypeShape EntityType="PenaltyCalculationModel.Users" Width="1.5" PointX="2.6902854101221476" PointY="6.8844521077743046" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

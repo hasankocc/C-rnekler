@@ -1,0 +1,28 @@
+Resources are 5000 meters away
+Hero has 1000 hp
+Hero attack is 10 
+Bug is Enemy 
+Pork is Enemy
+Lion is Enemy 
+Zombie is Enemy 
+Mutant is Enemy
+Bug has 10 hp 
+Bug attack is 2
+Pork has 80 hp
+Pork attack is 8
+Lion has 150 hp 
+Lion attack is 15 
+Zombie has 100 hp 
+Zombie attack is 9 
+Mutant has 250 hp
+Mutant attack is 20
+There is a Zombie at position 1681  
+There is a Bug at position 489  
+There is a Pork at position 1000
+There is a Lion at position 1527 
+There is a Bug at position 2000
+There is a Pork at position 2865 
+There is a Bug at position 3000
+There is a Mutant at position 4000
+
+

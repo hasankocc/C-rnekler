@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PenaltyCalculationModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PenaltyCalculationModelStoreContainer">
+    <EntitySet Name="Country" EntityType="PenaltyCalculationModel.Store.Country" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CountryHoliday" EntityType="PenaltyCalculationModel.Store.CountryHoliday" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="PenaltyCalculationModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_CountryHoliday_Country" Association="PenaltyCalculationModel.Store.FK_CountryHoliday_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="CountryHoliday" EntitySet="CountryHoliday" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="deleted" Type="tinyint" Nullable="false" />
+    <Property Name="CountryName" Type="varchar" Nullable="false" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="CountryHoliday">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="deleted" Type="tinyint" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+    <Property Name="CountryHolidayDate" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="deleted" Type="bigint" Nullable="false" />
+    <Property Name="name" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="ip" Type="varchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_CountryHoliday_Country">
+    <End Role="Country" Type="PenaltyCalculationModel.Store.Country" Multiplicity="1" />
+    <End Role="CountryHoliday" Type="PenaltyCalculationModel.Store.CountryHoliday" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CountryHoliday">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,9 @@
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\bin\Debug\ProbDenemesi.exe.config
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.Frm.resources
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.Properties.Resources.resources
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\bin\Debug\ProbDenemesi.exe
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\bin\Debug\ProbDenemesi.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.exe
+C:\Users\HASAN.KOC\Desktop\OOP\ProbDenemesi\ProbDenemesi\obj\Debug\ProbDenemesi.pdb

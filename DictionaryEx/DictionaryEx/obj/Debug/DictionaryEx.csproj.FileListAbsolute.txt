@@ -1,0 +1,9 @@
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\bin\Debug\DictionaryEx.exe.config
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\bin\Debug\DictionaryEx.exe
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\bin\Debug\DictionaryEx.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.Form1.resources
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.Properties.Resources.resources
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.csproj.GenerateResource.Cache
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.exe
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.pdb
+C:\Users\HASAN.KOC\Desktop\OOP\DictionaryEx\DictionaryEx\obj\Debug\DictionaryEx.csprojResolveAssemblyReference.cache

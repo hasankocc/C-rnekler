@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PenaltyCalculationModelStoreContainer" CdmEntityContainer="PenaltyCalEntities">
+    <EntitySetMapping Name="Country">
+      <EntityTypeMapping TypeName="PenaltyCalculationModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="CountryName" ColumnName="CountryName" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CountryHoliday">
+      <EntityTypeMapping TypeName="PenaltyCalculationModel.CountryHoliday">
+        <MappingFragment StoreEntitySet="CountryHoliday">
+          <ScalarProperty Name="CountryHolidayDate" ColumnName="CountryHolidayDate" />
+          <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="PenaltyCalculationModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="ip" ColumnName="ip" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

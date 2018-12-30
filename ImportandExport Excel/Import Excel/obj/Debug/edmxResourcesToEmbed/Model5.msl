@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ClearingModelStoreContainer" CdmEntityContainer="HasanEntities">
+    <EntitySetMapping Name="PRM_MASTER">
+      <EntityTypeMapping TypeName="ClearingModel.PRM_MASTER">
+        <MappingFragment StoreEntitySet="PRM_MASTER">
+          <ScalarProperty Name="DSCR" ColumnName="DSCR" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="DELETED" ColumnName="DELETED" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

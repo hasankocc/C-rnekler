@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PenaltyCalculationModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PenaltyCalEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Country" EntityType="PenaltyCalculationModel.Country" />
+    <EntitySet Name="CountryHoliday" EntityType="PenaltyCalculationModel.CountryHoliday" />
+    <AssociationSet Name="FK_CountryHoliday_Country" Association="PenaltyCalculationModel.FK_CountryHoliday_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="CountryHoliday" EntitySet="CountryHoliday" />
+    </AssociationSet>
+    <EntitySet Name="Users" EntityType="PenaltyCalculationModel.Users" />
+  </EntityContainer>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Byte" Name="deleted" Nullable="false" />
+    <Property Type="String" Name="CountryName" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CountryHoliday" Relationship="PenaltyCalculationModel.FK_CountryHoliday_Country" FromRole="Country" ToRole="CountryHoliday" />
+  </EntityType>
+  <EntityType Name="CountryHoliday">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Byte" Name="deleted" Nullable="false" />
+    <Property Type="Int32" Name="CountryId" Nullable="false" />
+    <Property Type="DateTime" Name="CountryHolidayDate" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Country" Relationship="PenaltyCalculationModel.FK_CountryHoliday_Country" FromRole="CountryHoliday" ToRole="Country" />
+  </EntityType>
+  <Association Name="FK_CountryHoliday_Country">
+    <End Type="PenaltyCalculationModel.Country" Role="Country" Multiplicity="1" />
+    <End Type="PenaltyCalculationModel.CountryHoliday" Role="CountryHoliday" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CountryHoliday">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int64" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="deleted" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ip" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>
